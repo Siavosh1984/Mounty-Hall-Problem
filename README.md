@@ -1,2 +1,2 @@
-# Mounty-Hall-Problem
-using code to prove Mounty Hall Problem
+# Monty-Hall-Problem
+using code to prove Monty Hall Problem
